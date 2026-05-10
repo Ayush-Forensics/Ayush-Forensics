@@ -67,9 +67,10 @@
 ## 🤝 Let’s Connect
 
 - ✉️ Email: ayushkr54881@gmail.com  
-- 📞 Phone: +91 82716 44852  
-- 🔗 LinkedIn: [AyushKumar](https://www.linkedin.com/in/ayush-kumar-918a3b354/)  
-- 🐙 GitHub: [@ayushkr54881](https://github.com/ayushkr54881)
+- 📞 Phone: +91 82716 44852 
+- 🔗 Portfolio: [Ayush-Kumar](https://ayush-kumar.in/)
+- 🔗 LinkedIn: [Ayush-Forensics](https://www.linkedin.com/in/ayush-forensics/)  
+- 🐙 GitHub: [@Ayush-Forensics](https://github.com/Ayush-Forensics)
 
 ---
 
